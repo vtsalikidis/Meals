@@ -4,40 +4,97 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bc892e48-9183-4a56-b402-272bda902cbb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/GUI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+    <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcommon_1_0_23.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/jfreechart_1_0_19.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_3_61.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/okhttp_4_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/okio_2_4_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MealsApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/Main.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2MBuXdKnRgpSNARREeyDoIhjaio" />
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2MBv4itGBsn7Zt7xAnjWBErWGfP" />
+  <component name="ProjectLevelVcsManager">
+    <OptionsSetting value="false" id="Update" />
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
 }]]></component>
+  <component name="RunManager" selected="JAR Application.okio-2.4.3.jar">
+    <configuration name="okhttp-4.2.1.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/3GE/okhttp-4.2.1.jar!/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="okio-2.4.3.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/3GE/okio-2.4.3.jar!/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.okio-2.4.3.jar" />
+        <item itemvalue="JAR Application.okhttp-4.2.1.jar" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bc892e48-9183-4a56-b402-272bda902cbb" name="Changes" comment="" />
-      <created>1677253337798</created>
+      <changelist id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="" />
+      <created>1677253600953</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1677253337798</updated>
+      <updated>1677253600953</updated>
     </task>
+    <task id="LOCAL-00001" summary="test&#10;&#10;test">
+      <created>1677254453699</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677254453699</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test&#10;&#10;test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test&#10;&#10;test" />
   </component>
 </project>

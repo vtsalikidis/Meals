@@ -41,7 +41,11 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JAR Application.jar">
+    <configuration name="gson-2.8.5.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$USER_HOME$/3GE/gson-2.8.5.jar!/" />
+      <method v="2" />
+    </configuration>
     <configuration name="jar" type="JarApplication">
       <option name="JAR_PATH" value="$USER_HOME$/3GE" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -50,6 +54,15 @@
       <module name="MealsApp" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="JAR Application.jar" />
+      <item itemvalue="JAR Application.gson-2.8.5.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.gson-2.8.5.jar" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">

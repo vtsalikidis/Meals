@@ -6,10 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
       <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_15_2_0.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derbyshared_10_15_2_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainScreen.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MainScreen.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MealsApp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -20,6 +24,8 @@
       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/AnotherJavaClass.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Api.class" beforeDir="false" />
@@ -71,11 +77,12 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
     "last_opened_file_path": "/Users/basilt/Documents/GitHub/Meals",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "advanced.settings"
   }
 }]]></component>
   <component name="RecentsManager">

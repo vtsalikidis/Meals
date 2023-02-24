@@ -5,19 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
-      <change beforePath="$PROJECT_DIR$/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MealsApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/3GE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jcommon_1_0_23.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/jfreechart_1_0_19.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_3_61.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/okhttp_4_2_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/okio_2_4_3.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AnotherJavaClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">

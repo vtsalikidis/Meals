@@ -8,8 +8,9 @@ import java.util.*;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("hello");
-        System.out.println("another hello!!");
+
+//TEST MAIN SCREEN
+        new MainScreen();
 
 
         ///TEST API
@@ -17,7 +18,7 @@ public class Main {
         System.out.println(result);
         result= Api.findMealsCategories();
         System.out.println(result);
-        result = Api.findMealsByCategory("Seaffod");
+        result = Api.findMealsByCategory("Seafood");
     }
 
 

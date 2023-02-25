@@ -1,6 +1,8 @@
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 import okhttp3.Response;
+import com.google.gson.Gson;
+import com.google.gson.GsonBuilder;
 
 import java.io.IOException;
 
@@ -32,6 +34,13 @@ public class Api {
     }
     public static String findMealsCategories(){
         String result = Api.getJSon("https://www.themealdb.com/api/json/v1/1/categories.php","");
+
+//        Gson gson = new Gson();
+//        User[] userArray = gson.fromJson(userJson, User[].class);
+//        for(User user : userArray) {
+//            System.out.println(user);
+//        }
+
         return result;
     }
     public static String findMealsByCategory(String category)

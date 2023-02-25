@@ -13,5 +13,6 @@
     <orderEntry type="library" name="okhttp-4.2.1" level="project" />
     <orderEntry type="library" name="okio-2.4.3" level="project" />
     <orderEntry type="library" name="3GE" level="application" />
+    <orderEntry type="library" name="gson-2.8.5" level="project" />
   </component>
 </module>

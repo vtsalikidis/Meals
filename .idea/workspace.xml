@@ -5,18 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Data.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Meal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MealByCategory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MealCategory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MealsApp.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Api.java" beforeDir="false" afterPath="$PROJECT_DIR$/Api.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Api.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/Api.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Data.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Meal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/MealByCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/MealCategory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/MealsApp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

@@ -5,10 +5,6 @@ import okhttp3.Response;
 //import org.apache.derby.impl.sql.catalog.SYSCOLUMNSRowFactory;
 
 import java.io.IOException;
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
 import java.util.*;
 import java.sql.*;
 
@@ -18,7 +14,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("another hello!!");
-        createTableAndData();
+        //createTableAndData();
     }
 
 
@@ -46,9 +42,9 @@ public class Main {
 //            System.out.println("Εικόνα γεύματος = "+result.get(i).strMealThumb);
 //        }
 
-        //DATABASE CONNECTION
+        /*DATABASE CONNECTION
 
-        private static Connection connect(){
+            private static Connection connect(){
 
             String connectionString = "jdbc:derby:MealsDB;create=true";
             Connection connection = null;
@@ -60,25 +56,26 @@ public class Main {
             return connection;
         }
 
+END DATABASE CONNECTION*/
 
-    private static void createTableAndData() {
+        /* CREATE TABLE
+        private static void createTableAndData() {
 
-        try {
+            try {
             Connection connection = connect();
             Statement statement = connection.createStatement();
-
             String createSQL = "CREATE TABLE D_USER (ID INTEGER NOT NULL PRIMARY KEY,USERNAME VARCHAR(20),PASSWORD VARCHAR(20))";
             statement.executeUpdate(createSQL);
             String insertSQLv1 = "INSERT INTO D_USER VALUES(1,'VASILEIOS','VAS123')";
-
             statement.executeUpdate(insertSQLv1.toString());
-
             statement.close();
-
             connection.close();
             System.out.println("Done");
         } catch (SQLException throwables) {
             System.out.println(throwables.getLocalizedMessage());
         }
     }
+
+    END TABLE CREATION*/
+
     }

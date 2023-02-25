@@ -1,9 +1,0 @@
-<changelist name="Uncommitted_changes_before_Update_at_24_2_23,_19_31_[Changes]" date="1677259911979" recycled="true" deleted="true">
-  <option name="PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23,_19_31_[Changes]/shelved.patch" />
-  <option name="DESCRIPTION" value="Uncommitted changes before Update at 24/2/23, 19:31 [Changes]" />
-  <binary>
-    <option name="BEFORE_PATH" value="out/production/MealsApp/Main.class" />
-    <option name="AFTER_PATH" value="out/production/MealsApp/Main.class" />
-    <option name="SHELVED_PATH" value="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23,_19_31_[Changes]/Main.class" />
-  </binary>
-</changelist>

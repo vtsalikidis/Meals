@@ -5,10 +5,10 @@ import java.awt.event.ActionListener;
 
 public class MainScreen extends JFrame {
     private JPanel MainPanel;
-    private JButton έξοδοςButton;
-    private JButton buttonShow;
-    private JButton buttonCategories;
-    private JButton στατιστικάΓευμάτωνButton;
+    private JButton buttonExitMainScreen;
+    private JButton buttonShowMealsMainScreen;
+    private JButton buttonCategoriesMainScreen;
+    private JButton buttonStatisticsMainScreen;
     private JTextPane notesMeals;
     private JLabel mealsLogo;
     private JLabel mealsTitle;
@@ -22,13 +22,27 @@ public class MainScreen extends JFrame {
         setLocationRelativeTo(null);
 
 
-        buttonShow.addActionListener(new ActionListener() {
+        buttonShowMealsMainScreen.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 ShowMealsScreen showMealsScreen = new ShowMealsScreen();
                 showMealsScreen.setVisible(true);
 
 
+            }
+        });
+        buttonCategoriesMainScreen.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                    ShowCategoriesMeals showCategoriesMeals = new ShowCategoriesMeals();
+                    showCategoriesMeals.setVisible(true);
+            }
+        });
+        buttonStatisticsMainScreen.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+                StatisticsMealsApp statisticsMealsApp = new StatisticsMealsApp();
+                statisticsMealsApp.setVisible(true);
             }
         });
     }

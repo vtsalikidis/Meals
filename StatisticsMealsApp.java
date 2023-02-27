@@ -9,7 +9,7 @@ public class StatisticsMealsApp extends JFrame {
 private static StatisticsMealsApp instance = new StatisticsMealsApp();
 
     private StatisticsMealsApp() {
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setDefaultCloseOperation(HIDE_ON_CLOSE);
         setPreferredSize(new Dimension(600, 400));
         setContentPane(statisticsMainPanel);
         pack();

@@ -17,7 +17,7 @@ public class MainScreen extends JFrame {
     private static MainScreen instance = new MainScreen(); //Singleton Pattern Design 1st Step
 //Singleton Pattern Design 2nd Step
     private MainScreen(){
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
         setPreferredSize(new Dimension(600,400));
         setContentPane(MainPanel);
         pack();
@@ -29,8 +29,6 @@ public class MainScreen extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 ShowMealsScreen.getInstance().setVisible(true);
-
-
             }
         });
         buttonCategoriesMainScreen.addActionListener(new ActionListener() {
@@ -47,6 +45,12 @@ public class MainScreen extends JFrame {
             }
         });
 
+        buttonExitMainScreen.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+            dispose();
+            }
+        });
     }
     //Singleton Design Pattern 3rd Step
     public static MainScreen getInstance(){

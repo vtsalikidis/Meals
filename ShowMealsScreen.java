@@ -15,7 +15,7 @@ public class ShowMealsScreen extends JFrame {
     private static ShowMealsScreen instance = new ShowMealsScreen();
 
     private ShowMealsScreen() {
-        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setDefaultCloseOperation(HIDE_ON_CLOSE);
         setPreferredSize(new Dimension(600, 400));
         setContentPane(panelShowMeals);
         pack();

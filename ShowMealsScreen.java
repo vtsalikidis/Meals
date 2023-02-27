@@ -11,6 +11,7 @@ public class ShowMealsScreen extends JFrame {
     private JButton buttonSaveShowMeals;
     private JButton buttonEditShowMeals;
     private JPanel panelShowMeals;
+    private JButton buttonDeleteFrmShowMeals;
 
 
     public ShowMealsScreen() {

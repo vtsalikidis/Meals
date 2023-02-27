@@ -5,15 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
-      <change afterPath="$PROJECT_DIR$/StatisticsMealsApp.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/StatisticsMealsApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MainScreen.form" beforeDir="false" afterPath="$PROJECT_DIR$/MainScreen.form" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/MainScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/MainScreen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShowCategoriesMeals.form" beforeDir="false" afterPath="$PROJECT_DIR$/ShowCategoriesMeals.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ShowCategoriesMeals.java" beforeDir="false" afterPath="$PROJECT_DIR$/ShowCategoriesMeals.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MainScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainScreen.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ShowCategoriesMeals.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ShowCategoriesMeals.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatisticsMealsApp.form" beforeDir="false" afterPath="$PROJECT_DIR$/StatisticsMealsApp.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StatisticsMealsApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/StatisticsMealsApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/StatisticsMealsApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/StatisticsMealsApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -140,7 +136,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677488888935</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="test&#10;&#10;test">
+      <created>1677526245377</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1677526245377</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

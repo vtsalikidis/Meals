@@ -1,4 +1,5 @@
 import javax.swing.*;
+import java.awt.*;
 
 public class ShowMealsScreen extends JFrame {
     private JList list1;
@@ -7,6 +8,17 @@ public class ShowMealsScreen extends JFrame {
     private JTextArea textArea3;
     private JTextArea textArea4;
     private JLabel titleShowMealsfrm;
-    private JButton αποθήκευσηButton;
-    private JButton επεξεργασίαButton;
+    private JButton buttonSaveShowMeals;
+    private JButton buttonEditShowMeals;
+    private JPanel panelShowMeals;
+
+
+    public ShowMealsScreen() {
+        setDefaultCloseOperation(EXIT_ON_CLOSE);
+        setPreferredSize(new Dimension(600, 400));
+        setContentPane(panelShowMeals);
+        pack();
+        setVisible(true);
+        setLocationRelativeTo(null);
+    }
 }

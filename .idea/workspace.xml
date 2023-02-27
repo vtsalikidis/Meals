@@ -4,7 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test" />
+    <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
+      <change afterPath="$PROJECT_DIR$/ShowMealsScreen.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ShowMealsScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainScreen.form" beforeDir="false" afterPath="$PROJECT_DIR$/MainScreen.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MainScreen.java" beforeDir="false" afterPath="$PROJECT_DIR$/MainScreen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MealsDB/service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/MealsDB/service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MainScreen.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MainScreen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/MealsDB/service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MealsDB/service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/MealsDB/service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/MealsDB/service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/service.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/service.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/MealsApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/libraries/Maven__org_apache_derby_derby_10_15_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/libraries/Maven__org_apache_derby_derbyshared_10_15_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/MealsApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/libraries/Maven__org_apache_derby_derby_10_15_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/libraries/Maven__org_apache_derby_derbyshared_10_15_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/MealsApp.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/libraries/Maven__org_apache_derby_derby_10_15_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/libraries/Maven__org_apache_derby_derbyshared_10_15_2_0.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +71,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "C:/Users/Alex/3GE/gson-2.8.5.jar",
     "node.js.detected.package.eslint": "true",
@@ -54,6 +84,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+      <recent name="$PROJECT_DIR$/target" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />

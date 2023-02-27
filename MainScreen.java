@@ -28,8 +28,7 @@ public class MainScreen extends JFrame {
         buttonShowMealsMainScreen.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                ShowMealsScreen showMealsScreen = new ShowMealsScreen();
-                showMealsScreen.setVisible(true);
+                ShowMealsScreen.getInstance().setVisible(true);
 
 
             }
@@ -37,15 +36,14 @@ public class MainScreen extends JFrame {
         buttonCategoriesMainScreen.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                ShowCategoriesMeals showCategoriesMeals = new ShowCategoriesMeals();
-                showCategoriesMeals.setVisible(true);
+                ShowCategoriesMeals.getInstance().setVisible(true);
             }
         });
         buttonStatisticsMainScreen.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
-                StatisticsMealsApp statisticsMealsApp = new StatisticsMealsApp();
-                statisticsMealsApp.setVisible(true);
+                StatisticsMealsApp.getInstance().setVisible(true);
+
             }
         });
 
@@ -59,24 +57,3 @@ public class MainScreen extends JFrame {
         // TODO: place custom component creation code here
     }
 }
-
-/*
-public class SingleObject {
-
-   //create an object of SingleObject
-   private static SingleObject instance = new SingleObject();
-
-   //make the constructor private so that this class cannot be
-   //instantiated
-   private SingleObject(){}
-
-   //Get the only object available
-   public static SingleObject getInstance(){
-      return instance;
-   }
-
-   public void showMessage(){
-      System.out.println("Hello World!");
-   }
-}
- */

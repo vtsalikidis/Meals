@@ -12,14 +12,17 @@ public class ShowMealsScreen extends JFrame {
     private JButton buttonEditShowMeals;
     private JPanel panelShowMeals;
     private JButton buttonDeleteFrmShowMeals;
+    private static ShowMealsScreen instance = new ShowMealsScreen();
 
-
-    public ShowMealsScreen() {
+    private ShowMealsScreen() {
         setDefaultCloseOperation(EXIT_ON_CLOSE);
         setPreferredSize(new Dimension(600, 400));
         setContentPane(panelShowMeals);
         pack();
         setVisible(true);
         setLocationRelativeTo(null);
+    }
+    public static ShowMealsScreen getInstance(){
+        return instance;
     }
 }

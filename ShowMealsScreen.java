@@ -48,6 +48,12 @@ public class ShowMealsScreen extends JFrame {
 
             }
         });
+        buttonDeleteFrmShowMeals.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+            }
+        });
     }
     public static ShowMealsScreen getInstance(){
         return instance;

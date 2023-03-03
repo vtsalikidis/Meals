@@ -65,9 +65,11 @@ public class Main {
             try {
             Connection connection = connect();
             Statement statement = connection.createStatement();
-            String createSQL = "CREATE TABLE D_USER (ID INTEGER NOT NULL PRIMARY KEY,USERNAME VARCHAR(20),PASSWORD VARCHAR(20))";
+            String createSQL = "CREATE TABLE MEALS_TABLE (MEALSID INTEGER NOT NULL PRIMARY KEY," +
+                    "strMEAL VARCHAR(40),strCATEGORY VARCHAR(40)," +
+                    "strAREA VARCHAR(40), strINSTRUCTIONS VARCHAR(1500)";
             statement.executeUpdate(createSQL);
-            String insertSQLv1 = "INSERT INTO D_USER VALUES(1,'VASILEIOS','VAS123')";
+            String insertSQLv1 = "INSERT INTO MEALS_TABLE VALUES(1,'FASOLAKIA','LADERA','ELLADA','DADASDSDAS')";
             statement.executeUpdate(insertSQLv1.toString());
             statement.close();
             connection.close();
@@ -77,6 +79,5 @@ public class Main {
         }
     }
 
-    END TABLE CREATION
 
     }

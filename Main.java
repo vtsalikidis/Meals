@@ -43,7 +43,7 @@ public class Main {
 //            System.out.println("Εικόνα γεύματος = "+result.get(i).strMealThumb);
 //        }
 
-        /*DATABASE CONNECTION
+       // DATABASE CONNECTION
 
             private static Connection connect(){
 
@@ -57,7 +57,7 @@ public class Main {
             return connection;
         }
 
-END DATABASE CONNECTION*/
+//END DATABASE CONNECTION
 
         /* CREATE TABLE
         private static void createTableAndData() {

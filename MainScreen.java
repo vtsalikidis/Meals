@@ -19,9 +19,12 @@ public class MainScreen extends JFrame {
     private MainScreen(){
         setDefaultCloseOperation(DO_NOTHING_ON_CLOSE);
         setPreferredSize(new Dimension(600,400));
+
         setContentPane(MainPanel);
         pack();
+
         setVisible(true);
+
         setLocationRelativeTo(null);
 
 

@@ -14,7 +14,8 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("another hello!!");
-        //createTableAndData();
+
+       // createTableAndData();
         MainScreen.getInstance();
     }
 
@@ -68,6 +69,8 @@ public class Main {
             String createSQL = "CREATE TABLE MEALS_TABLE (MEALSID INTEGER NOT NULL PRIMARY KEY," +
                     "strMEAL VARCHAR(40),strCATEGORY VARCHAR(40)," +
                     "strAREA VARCHAR(40), strINSTRUCTIONS VARCHAR(1500)";
+            //String createSQL2 = "CREATE TABLE MEALST";
+
             statement.executeUpdate(createSQL);
             String insertSQLv1 = "INSERT INTO MEALS_TABLE VALUES(1,'FASOLAKIA','LADERA','ELLADA','DADASDSDAS')";
             statement.executeUpdate(insertSQLv1.toString());

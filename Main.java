@@ -14,7 +14,11 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("another hello!!");
-        createTableAndData();
+    Connection con = DriverManager.getConnection("jdbc:derby:MealsDB1;create=true");
+    System.out.println("Connected");
+    con.close();
+
+        //createTableAndData();
         MainScreen.getInstance();
     }
 
@@ -43,7 +47,7 @@ public class Main {
 //            System.out.println("Εικόνα γεύματος = "+result.get(i).strMealThumb);
 //        }
 
-       // DATABASE CONNECTION
+       //DATABASE CONNECTION
 
             private static Connection connect(){
 
@@ -72,7 +76,7 @@ public class Main {
 
             statement.executeUpdate(createSQL);
             String insertSQLv1 = "INSERT INTO MEALS_TABLE VALUES(1,'FASOLAKIA','LADERA','ELLADA','DADASDSDAS')";
-            statement.executeUpdate(insertSQLv1.toString());
+        //    statement.executeUpdate(insertSQLv1.toString());
             statement.close();
             connection.close();
             System.out.println("Done");

@@ -56,7 +56,7 @@ public class Main {
             }
             return connection;
         }
-
+  //  /Users/basilt/Documents/GitHub/Meals
 //END DATABASE CONNECTION
 
         //CREATE TABLE

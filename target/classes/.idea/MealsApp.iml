@@ -18,5 +18,22 @@
     <orderEntry type="library" name="gson-2.8.5" level="project" />
     <orderEntry type="library" name="Maven: org.apache.derby:derby:10.15.2.0" level="project" />
     <orderEntry type="library" name="Maven: org.apache.derby:derbyshared:10.15.2.0" level="project" />
+    <orderEntry type="library" name="db-derby-10.15.2" level="project" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$USER_HOME$/Downloads/db-derby-10.15.2.0-bin" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$USER_HOME$/Downloads/db-derby-10.15.2.0-bin/demo/programs" />
+          <root url="file://$USER_HOME$/Downloads/db-derby-10.15.2.0-bin/demo/programs/scores/java/client" />
+          <root url="file://$USER_HOME$/Downloads/db-derby-10.15.2.0-bin/demo/programs/scores/java/common" />
+          <root url="file://$USER_HOME$/Downloads/db-derby-10.15.2.0-bin/demo/programs/scores/java/server" />
+          <root url="file://$USER_HOME$/Downloads/db-derby-10.15.2.0-bin/demo/programs/simple" />
+          <root url="file://$USER_HOME$/Downloads/db-derby-10.15.2.0-bin/demo/programs/vtis/java" />
+        </SOURCES>
+      </library>
+    </orderEntry>
   </component>
 </module>

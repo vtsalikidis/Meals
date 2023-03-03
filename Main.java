@@ -59,7 +59,7 @@ public class Main {
 
 //END DATABASE CONNECTION
 
-        /* CREATE TABLE
+        //CREATE TABLE
         private static void createTableAndData() {
 
             try {
@@ -77,6 +77,6 @@ public class Main {
         }
     }
 
-    END TABLE CREATION*/
+    END TABLE CREATION
 
     }

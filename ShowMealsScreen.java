@@ -1,12 +1,16 @@
 import javax.swing.*;
+import javax.swing.event.ListSelectionEvent;
+import javax.swing.event.ListSelectionListener;
 import java.awt.*;
+import java.awt.event.ActionEvent;
+import java.awt.event.ActionListener;
 
 public class ShowMealsScreen extends JFrame {
-    private JList list1;
-    private JTextArea textArea1;
-    private JTextArea textArea2;
-    private JTextArea textArea3;
-    private JTextArea textArea4;
+    private JList nameListMeals;
+    private JTextArea textMealName;
+    private JTextArea textCategoryName;
+    private JTextArea textMealOrigin;
+    private JTextArea textMealDescr;
     private JLabel titleShowMealsfrm;
     private JButton buttonSaveShowMeals;
     private JButton buttonEditShowMeals;
@@ -15,14 +19,53 @@ public class ShowMealsScreen extends JFrame {
     private static ShowMealsScreen instance = new ShowMealsScreen();
 
     private ShowMealsScreen() {
-        setDefaultCloseOperation(HIDE_ON_CLOSE);
-        setPreferredSize(new Dimension(600, 400));
-        setContentPane(panelShowMeals);
-        pack();
-        setVisible(true);
-        setLocationRelativeTo(null);
+        this.setDefaultCloseOperation(HIDE_ON_CLOSE);
+        this.setPreferredSize(new Dimension(600, 400));
+        this.setContentPane(panelShowMeals);
+        this.pack();
+        this.setVisible(true);
+        this.setLocationRelativeTo(null);
+        buttonSaveShowMeals.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+
+
+            }
+        });
+        buttonEditShowMeals.addActionListener(new ActionListener() {
+            @Override
+            public void actionPerformed(ActionEvent e) {
+
+
+            }
+        });
+        nameListMeals.addListSelectionListener(new ListSelectionListener() {
+            @Override
+            public void valueChanged(ListSelectionEvent e) {
+
+
+
+            }
+        });
     }
     public static ShowMealsScreen getInstance(){
         return instance;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

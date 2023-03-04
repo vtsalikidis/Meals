@@ -1,0 +1,316 @@
+Index: out/production/MealsApp/.idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"95f6e097-981d-4fc1-9a8e-e562da34d989\" name=\"Changes\" comment=\"test&#10;&#10;test\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/jcommon_1_0_23.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/MealsApp.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/MealsApp.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/MealsApp/Main.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/MealsApp/Main.class\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2MBv4itGBsn7Zt7xAnjWBErWGfP\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Downloaded.Files.Path.Enabled\": \"false\",\r\n    \"Repository.Attach.Annotations\": \"false\",\r\n    \"Repository.Attach.JavaDocs\": \"false\",\r\n    \"Repository.Attach.Sources\": \"false\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"project.structure.last.edited\": \"Global Libraries\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\"\r\n  }\r\n}]]></component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"95f6e097-981d-4fc1-9a8e-e562da34d989\" name=\"Changes\" comment=\"\" />\r\n      <created>1677253600953</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1677253600953</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"test&#10;&#10;test\">\r\n      <created>1677254453699</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1677254453699</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"test&#10;&#10;test\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"test&#10;&#10;test\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/production/MealsApp/.idea/workspace.xml b/out/production/MealsApp/.idea/workspace.xml
+--- a/out/production/MealsApp/.idea/workspace.xml	(revision 58209f022ec07d95369187b59b36c638754ddc46)
++++ b/out/production/MealsApp/.idea/workspace.xml	(date 1677268557650)
+@@ -5,10 +5,15 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcommon_1_0_23.xml" afterDir="false" />
++      <change afterPath="$PROJECT_DIR$/Api.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MealsApp.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/Main.class" afterDir="false" />
+     </list>
+@@ -39,19 +44,35 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Downloaded.Files.Path.Enabled": "false",
+-    "Repository.Attach.Annotations": "false",
+-    "Repository.Attach.JavaDocs": "false",
+-    "Repository.Attach.Sources": "false",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "project.structure.last.edited": "Global Libraries",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.2"
+-  }
+-}]]></component>
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
++  }
++}</component>
++  <component name="RunManager">
++    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Main" />
++      <module name="MealsApp" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
++    </configuration>
++  </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+     <task active="true" id="Default" summary="Default task">
+@@ -60,6 +81,8 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1677253600953</updated>
++      <workItem from="1677265545283" duration="640000" />
++      <workItem from="1677266197885" duration="2342000" />
+     </task>
+     <task id="LOCAL-00001" summary="test&#10;&#10;test">
+       <created>1677254453699</created>
+@@ -71,8 +94,21 @@
+     <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="test&#10;&#10;test" />
+     <option name="LAST_COMMIT_MESSAGE" value="test&#10;&#10;test" />
+   </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <breakpoint enabled="true" type="java-exception">
++          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
++          <option name="timeStamp" value="1" />
++        </breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
+ </project>
+\ No newline at end of file
+Index: .idea/MealsApp.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"library\" name=\"jcommon-1.0.23\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"jfreechart-1.0.19\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"kotlin-stdlib-1.3.61\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"okhttp-4.2.1\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"okio-2.4.3\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"3GE\" level=\"application\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/MealsApp.iml b/.idea/MealsApp.iml
+--- a/.idea/MealsApp.iml	(revision 58209f022ec07d95369187b59b36c638754ddc46)
++++ b/.idea/MealsApp.iml	(date 1677266746608)
+@@ -7,11 +7,11 @@
+     </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="library" name="jcommon-1.0.23" level="project" />
+-    <orderEntry type="library" name="jfreechart-1.0.19" level="project" />
+-    <orderEntry type="library" name="kotlin-stdlib-1.3.61" level="project" />
+-    <orderEntry type="library" name="okhttp-4.2.1" level="project" />
+-    <orderEntry type="library" name="okio-2.4.3" level="project" />
+-    <orderEntry type="library" name="3GE" level="application" />
++    <orderEntry type="library" exported="" name="jcommon-1.0.23" level="project" />
++    <orderEntry type="library" exported="" name="jfreechart-1.0.19" level="project" />
++    <orderEntry type="library" exported="" name="kotlin-stdlib-1.3.61" level="project" />
++    <orderEntry type="library" exported="" name="okhttp-4.2.1" level="project" />
++    <orderEntry type="library" exported="" name="okio-2.4.3" level="project" />
++    <orderEntry type="library" exported="" name="3GE" level="application" />
+   </component>
+ </module>
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<project version=\"4\">\r\n  <component name=\"AutoImportSettings\">\r\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\r\n  </component>\r\n  <component name=\"ChangeListManager\">\r\n    <list default=\"true\" id=\"95f6e097-981d-4fc1-9a8e-e562da34d989\" name=\"Changes\" comment=\"test&#10;&#10;test\">\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/jcommon_1_0_23.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/jfreechart_1_0_19.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_3_61.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/okhttp_4_2_1.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/.idea/libraries/okio_2_4_3.xml\" afterDir=\"false\" />\r\n      <change afterPath=\"$PROJECT_DIR$/test1.java\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/MealsApp.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/MealsApp.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml\" afterDir=\"false\" />\r\n      <change beforePath=\"$PROJECT_DIR$/out/production/MealsApp/Main.class\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/out/production/MealsApp/Main.class\" afterDir=\"false\" />\r\n    </list>\r\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\r\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\r\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\r\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\r\n  </component>\r\n  <component name=\"FileTemplateManagerImpl\">\r\n    <option name=\"RECENT_TEMPLATES\">\r\n      <list>\r\n        <option value=\"Class\" />\r\n      </list>\r\n    </option>\r\n  </component>\r\n  <component name=\"Git.Settings\">\r\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\r\n  </component>\r\n  <component name=\"MarkdownSettingsMigration\">\r\n    <option name=\"stateVersion\" value=\"1\" />\r\n  </component>\r\n  <component name=\"ProjectId\" id=\"2MBv4itGBsn7Zt7xAnjWBErWGfP\" />\r\n  <component name=\"ProjectLevelVcsManager\">\r\n    <OptionsSetting value=\"false\" id=\"Update\" />\r\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\r\n  </component>\r\n  <component name=\"ProjectViewState\">\r\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\r\n    <option name=\"showLibraryContents\" value=\"true\" />\r\n  </component>\r\n  <component name=\"PropertiesComponent\"><![CDATA[{\r\n  \"keyToString\": {\r\n    \"Downloaded.Files.Path.Enabled\": \"false\",\r\n    \"Repository.Attach.Annotations\": \"false\",\r\n    \"Repository.Attach.JavaDocs\": \"false\",\r\n    \"Repository.Attach.Sources\": \"false\",\r\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\r\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\r\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\r\n    \"project.structure.last.edited\": \"Global Libraries\",\r\n    \"project.structure.proportion\": \"0.15\",\r\n    \"project.structure.side.proportion\": \"0.2\"\r\n  }\r\n}]]></component>\r\n  <component name=\"RunManager\" selected=\"JAR Application.okio-2.4.3.jar\">\r\n    <configuration name=\"okhttp-4.2.1.jar\" type=\"JarApplication\" temporary=\"true\">\r\n      <option name=\"JAR_PATH\" value=\"$USER_HOME$/3GE/okhttp-4.2.1.jar!/\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <configuration name=\"okio-2.4.3.jar\" type=\"JarApplication\" temporary=\"true\">\r\n      <option name=\"JAR_PATH\" value=\"$USER_HOME$/3GE/okio-2.4.3.jar!/\" />\r\n      <method v=\"2\" />\r\n    </configuration>\r\n    <recent_temporary>\r\n      <list>\r\n        <item itemvalue=\"JAR Application.okio-2.4.3.jar\" />\r\n        <item itemvalue=\"JAR Application.okhttp-4.2.1.jar\" />\r\n      </list>\r\n    </recent_temporary>\r\n  </component>\r\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\r\n  <component name=\"TaskManager\">\r\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\r\n      <changelist id=\"95f6e097-981d-4fc1-9a8e-e562da34d989\" name=\"Changes\" comment=\"\" />\r\n      <created>1677253600953</created>\r\n      <option name=\"number\" value=\"Default\" />\r\n      <option name=\"presentableId\" value=\"Default\" />\r\n      <updated>1677253600953</updated>\r\n    </task>\r\n    <task id=\"LOCAL-00001\" summary=\"test&#10;&#10;test\">\r\n      <created>1677254453699</created>\r\n      <option name=\"number\" value=\"00001\" />\r\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\r\n      <option name=\"project\" value=\"LOCAL\" />\r\n      <updated>1677254453699</updated>\r\n    </task>\r\n    <option name=\"localTasksCounter\" value=\"2\" />\r\n    <servers />\r\n  </component>\r\n  <component name=\"VcsManagerConfiguration\">\r\n    <MESSAGE value=\"test&#10;&#10;test\" />\r\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"test&#10;&#10;test\" />\r\n  </component>\r\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 58209f022ec07d95369187b59b36c638754ddc46)
++++ b/.idea/workspace.xml	(date 1677271857836)
+@@ -5,17 +5,14 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jcommon_1_0_23.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jfreechart_1_0_19.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/kotlin_stdlib_1_3_61.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/okhttp_4_2_1.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/.idea/libraries/okio_2_4_3.xml" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/test1.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MealsApp.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/MealsApp.iml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__17_51__Changes_.xml" afterDir="false" />
++      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/shelf/Uncommitted_changes_before_Update_at_24_2_23__19_31__Changes_.xml" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/out/production/MealsApp/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/MealsApp/Main.class" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -44,35 +41,34 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Downloaded.Files.Path.Enabled": "false",
+-    "Repository.Attach.Annotations": "false",
+-    "Repository.Attach.JavaDocs": "false",
+-    "Repository.Attach.Sources": "false",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "project.structure.last.edited": "Global Libraries",
+-    "project.structure.proportion": "0.15",
+-    "project.structure.side.proportion": "0.2"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
++    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
++    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
++    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
++    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
++    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
++    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+   }
+-}]]></component>
+-  <component name="RunManager" selected="JAR Application.okio-2.4.3.jar">
+-    <configuration name="okhttp-4.2.1.jar" type="JarApplication" temporary="true">
+-      <option name="JAR_PATH" value="$USER_HOME$/3GE/okhttp-4.2.1.jar!/" />
+-      <method v="2" />
+-    </configuration>
+-    <configuration name="okio-2.4.3.jar" type="JarApplication" temporary="true">
+-      <option name="JAR_PATH" value="$USER_HOME$/3GE/okio-2.4.3.jar!/" />
+-      <method v="2" />
++}</component>
++  <component name="RunManager">
++    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
++      <option name="MAIN_CLASS_NAME" value="Main" />
++      <module name="MealsApp" />
++      <method v="2">
++        <option name="Make" enabled="true" />
++      </method>
+     </configuration>
+-    <recent_temporary>
+-      <list>
+-        <item itemvalue="JAR Application.okio-2.4.3.jar" />
+-        <item itemvalue="JAR Application.okhttp-4.2.1.jar" />
+-      </list>
+-    </recent_temporary>
+   </component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+   <component name="TaskManager">
+@@ -82,6 +78,10 @@
+       <option name="number" value="Default" />
+       <option name="presentableId" value="Default" />
+       <updated>1677253600953</updated>
++      <workItem from="1677265545283" duration="640000" />
++      <workItem from="1677266197885" duration="4332000" />
++      <workItem from="1677271160054" duration="285000" />
++      <workItem from="1677271659334" duration="198000" />
+     </task>
+     <task id="LOCAL-00001" summary="test&#10;&#10;test">
+       <created>1677254453699</created>
+@@ -90,11 +90,42 @@
+       <option name="project" value="LOCAL" />
+       <updated>1677254453699</updated>
+     </task>
+-    <option name="localTasksCounter" value="2" />
++    <task id="LOCAL-00002" summary="test&#10;&#10;test">
++      <created>1677269915314</created>
++      <option name="number" value="00002" />
++      <option name="presentableId" value="LOCAL-00002" />
++      <option name="project" value="LOCAL" />
++      <updated>1677269915314</updated>
++    </task>
++    <option name="localTasksCounter" value="3" />
+     <servers />
+   </component>
++  <component name="TypeScriptGeneratedFilesManager">
++    <option name="version" value="3" />
++  </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="test&#10;&#10;test" />
+     <option name="LAST_COMMIT_MESSAGE" value="test&#10;&#10;test" />
+   </component>
++  <component name="XDebuggerManager">
++    <breakpoint-manager>
++      <breakpoints>
++        <breakpoint enabled="true" type="java-exception">
++          <properties class="java.lang.NoClassDefFoundError" package="java.lang" />
++          <option name="timeStamp" value="1" />
++        </breakpoint>
++      </breakpoints>
++    </breakpoint-manager>
++  </component>
+ </project>
+\ No newline at end of file
+Index: out/production/MealsApp/.idea/MealsApp.iml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\r\n<module type=\"JAVA_MODULE\" version=\"4\">\r\n  <component name=\"NewModuleRootManager\" inherit-compiler-output=\"true\">\r\n    <exclude-output />\r\n    <content url=\"file://$MODULE_DIR$\">\r\n      <sourceFolder url=\"file://$MODULE_DIR$\" isTestSource=\"false\" />\r\n    </content>\r\n    <orderEntry type=\"inheritedJdk\" />\r\n    <orderEntry type=\"sourceFolder\" forTests=\"false\" />\r\n    <orderEntry type=\"library\" name=\"jcommon-1.0.23\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"jfreechart-1.0.19\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"kotlin-stdlib-1.3.61\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"okhttp-4.2.1\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"okio-2.4.3\" level=\"project\" />\r\n    <orderEntry type=\"library\" name=\"3GE\" level=\"application\" />\r\n  </component>\r\n</module>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/out/production/MealsApp/.idea/MealsApp.iml b/out/production/MealsApp/.idea/MealsApp.iml
+--- a/out/production/MealsApp/.idea/MealsApp.iml	(revision 58209f022ec07d95369187b59b36c638754ddc46)
++++ b/out/production/MealsApp/.idea/MealsApp.iml	(date 1677266746608)
+@@ -7,11 +7,11 @@
+     </content>
+     <orderEntry type="inheritedJdk" />
+     <orderEntry type="sourceFolder" forTests="false" />
+-    <orderEntry type="library" name="jcommon-1.0.23" level="project" />
+-    <orderEntry type="library" name="jfreechart-1.0.19" level="project" />
+-    <orderEntry type="library" name="kotlin-stdlib-1.3.61" level="project" />
+-    <orderEntry type="library" name="okhttp-4.2.1" level="project" />
+-    <orderEntry type="library" name="okio-2.4.3" level="project" />
+-    <orderEntry type="library" name="3GE" level="application" />
++    <orderEntry type="library" exported="" name="jcommon-1.0.23" level="project" />
++    <orderEntry type="library" exported="" name="jfreechart-1.0.19" level="project" />
++    <orderEntry type="library" exported="" name="kotlin-stdlib-1.3.61" level="project" />
++    <orderEntry type="library" exported="" name="okhttp-4.2.1" level="project" />
++    <orderEntry type="library" exported="" name="okio-2.4.3" level="project" />
++    <orderEntry type="library" exported="" name="3GE" level="application" />
+   </component>
+ </module>
+\ No newline at end of file

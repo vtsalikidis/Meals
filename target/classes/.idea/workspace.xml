@@ -4,482 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/3GE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Api 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Data 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/GUI 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MainScreen 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MainScreen$1 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MainScreen$2 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MainScreen$3 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MainScreen$4 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Meal 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealByCategory 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealCategory 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealsDB/db 2.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealsDB/dbex 2.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealsDB/log/log 2.ctrl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealsDB/log/log1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealsDB/log/log1 3.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealsDB/log/logmirror 2.ctrl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealsDB/seg0/c60 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/MealsDB/seg0/c81 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ShowCategoriesMeals 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ShowCategoriesMeals$1 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ShowMealsScreen 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ShowMealsScreen$1 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ShowMealsScreen$2 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ShowMealsScreen$3 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/ShowMealsScreen$4 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/StatisticsMealsApp 2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/derby 2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/.idea/MealsApp 2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/MealsDB/seg0/c60.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/MealsDB/seg0/c81.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/MealsDB/seg0/d4b0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/.idea/libraries/Maven__org_apache_derby_derbyshared_10_15_2_0 2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/db 2.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/dbex 2.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/log/log 2.ctrl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/log/log1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/log/logmirror 2.ctrl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/seg0/c60 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/seg0/c60.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/seg0/c81 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/seg0/c81.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/MealsDB/seg0/d4b0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/derby 2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/db 2.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/dbex 2.lck" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/log/README_DO_NOT_TOUCH_FILES 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/log/log 2.ctrl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/log/log1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/log/logmirror 2.ctrl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/README_DO_NOT_TOUCH_FILES 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c10 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c101 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c111 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c121 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c130 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c161 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c171 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1d1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1e0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1f1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c200 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c211 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c241 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c251 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c260 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c271 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c281 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c290 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2b1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2c1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2f0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c300 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c311 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c321 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c331 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c361 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c371 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3d1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3e1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3f1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c400 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c41 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c411 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c441 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c451 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c461 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c470 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c481 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c490 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c4a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c51 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c60 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c71 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c81 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c90 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/ca1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cb1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cc0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cf0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/d4b0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/derby 2.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/log/README_DO_NOT_TOUCH_FILES 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/log/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/README_DO_NOT_TOUCH_FILES 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c10 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c10.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c101 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c101.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c111 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c111.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c121 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c121.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c130 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c130.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c141.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c150.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c161 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c161.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c171 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c171.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c180.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c191.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1a1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1b1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1c0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1d1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1d1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1e0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1e0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1f1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1f1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c20.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c200 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c200.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c211 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c211.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c221.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c230.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c241 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c241.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c251 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c251.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c260 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c260.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c271 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c271.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c281 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c281.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c290 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c290.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2a1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2b1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2b1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2c1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2c1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2d0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2e1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2f0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2f0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c300 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c300.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c31.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c311 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c311.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c321 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c321.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c331 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c331.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c340.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c351.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c361 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c361.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c371 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c371.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c380.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c391.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3a1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3b1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3c0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3d1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3d1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3e1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3e1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3f1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3f1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c400 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c400.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c41 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c41.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c411 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c411.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c421.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c430.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c441 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c441.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c451 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c451.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c461 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c461.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c470 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c470.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c481 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c481.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c490 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c490.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c4a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c4a1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c51 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c51.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c71 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c71.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c90 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c90.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/ca1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/ca1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cb1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cb1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cc0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cc0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cd1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/ce1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cf0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cf0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/d4b0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jcommon-1.0.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jfreechart-1.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/kotlin-stdlib-1.3.61.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okhttp-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okio-2.4.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/log/README_DO_NOT_TOUCH_FILES 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/log/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/README_DO_NOT_TOUCH_FILES 2.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c10 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c10.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c101 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c101.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c111 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c111.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c121 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c121.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c130 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c130.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c141.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c150.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c161 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c161.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c171 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c171.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c180.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c191.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1a1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1b1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1c0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1d1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1d1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1e0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1e0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1f1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c1f1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c20.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c200 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c200.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c211 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c211.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c221.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c230.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c241 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c241.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c251 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c251.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c260 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c260.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c271 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c271.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c281 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c281.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c290 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c290.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2a1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2b1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2b1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2c1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2c1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2d0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2e1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2f0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c2f0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c300 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c300.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c31.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c311 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c311.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c321 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c321.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c331 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c331.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c340.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c351.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c361 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c361.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c371 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c371.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c380.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c391.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3a1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3b1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3c0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3d1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3d1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3e1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3e1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3f1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c3f1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c400 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c400.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c41 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c41.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c411 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c411.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c421.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c430.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c441 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c441.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c451 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c451.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c461 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c461.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c470 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c470.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c481 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c481.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c490 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c490.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c4a1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c4a1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c51 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c51.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c71 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c71.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c90 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/c90.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/ca1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/ca1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cb1 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cb1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cc0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cc0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cd1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/ce1.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cf0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/cf0.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/seg0/d4b0 2.dat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/service.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derby 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derbyshared-10.15.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/gson-2.8.5 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jcommon-1.0.23 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jcommon-1.0.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jfreechart-1.0.19 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jfreechart-1.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/kotlin-stdlib-1.3.61 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/kotlin-stdlib-1.3.61.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/okhttp-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/okio-2.4.3 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/okio-2.4.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/meal-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/derbyshared-10.15.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jcommon-1.0.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jfreechart-1.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/kotlin-stdlib-1.3.61.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okhttp-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okio-2.4.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/README_DO_NOT_TOUCH_FILES.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/service.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jcommon-1.0.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jfreechart-1.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/kotlin-stdlib-1.3.61.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/okhttp-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/okio-2.4.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jcommon-1.0.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jfreechart-1.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/kotlin-stdlib-1.3.61.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okhttp-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okio-2.4.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derby 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derbyshared-10.15.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/gson-2.8.5 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jcommon-1.0.23 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jfreechart-1.0.19 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/kotlin-stdlib-1.3.61 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/okio-2.4.3 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/derbyshared-10.15.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jcommon-1.0.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jfreechart-1.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/kotlin-stdlib-1.3.61.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okhttp-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okio-2.4.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/MealsDB/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derby 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/derbyshared-10.15.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/gson-2.8.5 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jcommon-1.0.23 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/jfreechart-1.0.19 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/kotlin-stdlib-1.3.61 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/lib/okio-2.4.3 2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/derby.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/derbyshared-10.15.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/gson-2.8.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jcommon-1.0.23.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/jfreechart-1.0.19.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/kotlin-stdlib-1.3.61.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okhttp-4.2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/target/classes/out/production/MealsApp/lib/okio-2.4.3.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MealsApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_15_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_derby_derby_10_15_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MealsDB/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/MealsDB/db.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MealsDB/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/MealsDB/log/log.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MealsDB/log/log1.dat" beforeDir="false" afterPath="$PROJECT_DIR$/MealsDB/log/log1.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MealsDB/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/MealsDB/log/logmirror.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MealsDB/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/MealsDB/seg0/c60.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MealsDB/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/MealsDB/seg0/c81.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/derby.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/MealsApp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/MealsApp.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_derby_derby_10_15_2_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/libraries/Maven__org_apache_derby_derby_10_15_2_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MealsDB/db.lck" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MealsDB/db.lck" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MealsDB/log/log.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MealsDB/log/log.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MealsDB/log/log1.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MealsDB/log/logmirror.ctrl" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MealsDB/log/logmirror.ctrl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MealsDB/seg0/c60.dat" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MealsDB/seg0/c60.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/MealsDB/seg0/c81.dat" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/MealsDB/seg0/c81.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/derby.log" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/derby.log" afterDir="false" />
-    </list>
+    <list default="true" id="95f6e097-981d-4fc1-9a8e-e562da34d989" name="Changes" comment="test&#10;&#10;test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -520,29 +45,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Alex/3GE/gson-2.8.5.jar",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.SHOW&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Alex/3GE/gson-2.8.5.jar&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/" />
@@ -755,7 +280,28 @@
       <option name="project" value="LOCAL" />
       <updated>1677883013740</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="test&#10;&#10;test">
+      <created>1677884791342</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1677884791342</updated>
+    </task>
+    <task id="LOCAL-00016" summary="test&#10;&#10;test">
+      <created>1677884888828</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1677884888828</updated>
+    </task>
+    <task id="LOCAL-00017" summary="test&#10;&#10;test">
+      <created>1677886215844</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1677886215845</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

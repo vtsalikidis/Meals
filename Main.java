@@ -14,9 +14,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hello");
         System.out.println("another hello!!");
-    Connection con = DriverManager.getConnection("jdbc:derby:MealsDB1;create=true");
     System.out.println("Connected");
-    con.close();
 
         //createTableAndData();
         MainScreen.getInstance();
